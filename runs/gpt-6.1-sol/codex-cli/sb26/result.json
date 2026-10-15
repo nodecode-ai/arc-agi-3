@@ -1,0 +1,50 @@
+{
+  "game": "sb26",
+  "game_id": "sb26-7fbdac44",
+  "harness": "Codex CLI",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 8,
+  "total_levels": 8,
+  "actions": 137,
+  "level_actions": [
+    13,
+    24,
+    15,
+    15,
+    17,
+    19,
+    17,
+    17
+  ],
+  "level_baseline_actions": [
+    18,
+    28,
+    18,
+    19,
+    31,
+    23,
+    58,
+    18
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    112.1107
+  ],
+  "score": 100.0,
+  "model_calls": 32,
+  "tokens": {
+    "uncached_input": 134248,
+    "cache_read": 1276115,
+    "output": 12166,
+    "all": 1422529
+  },
+  "cost_usd": 0.5849
+}

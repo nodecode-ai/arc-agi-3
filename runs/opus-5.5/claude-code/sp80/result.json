@@ -1,0 +1,46 @@
+{
+  "game": "sp80",
+  "game_id": "sp80-589a99af",
+  "harness": "Claude Code",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 185,
+  "level_actions": [
+    4,
+    7,
+    10,
+    37,
+    42,
+    85
+  ],
+  "level_baseline_actions": [
+    39,
+    58,
+    25,
+    148,
+    96,
+    152
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 88,
+  "tokens": {
+    "uncached_input": 176,
+    "cache_read": 15998933,
+    "cache_write_5m": 0,
+    "cache_write_1h": 380844,
+    "output": 282195,
+    "all": 16662148
+  },
+  "cost_usd": 11.8911
+}

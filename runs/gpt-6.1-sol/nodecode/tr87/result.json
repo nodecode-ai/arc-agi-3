@@ -1,0 +1,44 @@
+{
+  "game": "tr87",
+  "game_id": "tr87-cd924810",
+  "harness": "Nodecode",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 194,
+  "level_actions": [
+    43,
+    36,
+    26,
+    21,
+    39,
+    29
+  ],
+  "level_baseline_actions": [
+    54,
+    58,
+    40,
+    45,
+    71,
+    146
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 68,
+  "tokens": {
+    "uncached_input": 160583,
+    "cache_read": 967847,
+    "output": 22315,
+    "all": 1150745
+  },
+  "cost_usd": 0.7214
+}

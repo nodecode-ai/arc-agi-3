@@ -1,0 +1,44 @@
+{
+  "game": "dc22",
+  "game_id": "dc22-fdcac232",
+  "harness": "Nodecode",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 602,
+  "level_actions": [
+    23,
+    54,
+    47,
+    65,
+    245,
+    168
+  ],
+  "level_baseline_actions": [
+    59,
+    102,
+    67,
+    98,
+    324,
+    578
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 193,
+  "tokens": {
+    "uncached_input": 443960,
+    "cache_read": 4447344,
+    "output": 71185,
+    "all": 4962489
+  },
+  "cost_usd": 2.2665
+}

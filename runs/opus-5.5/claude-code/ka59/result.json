@@ -1,0 +1,49 @@
+{
+  "game": "ka59",
+  "game_id": "ka59-38d34dbb",
+  "harness": "Claude Code",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 7,
+  "total_levels": 7,
+  "actions": 374,
+  "level_actions": [
+    27,
+    47,
+    33,
+    54,
+    20,
+    64,
+    129
+  ],
+  "level_baseline_actions": [
+    28,
+    109,
+    51,
+    51,
+    33,
+    132,
+    326
+  ],
+  "level_scores": [
+    107.54458161865568,
+    115.0,
+    115.0,
+    89.19753086419753,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 75,
+  "tokens": {
+    "uncached_input": 150,
+    "cache_read": 10809114,
+    "cache_write_5m": 0,
+    "cache_write_1h": 377338,
+    "output": 277022,
+    "all": 11463624
+  },
+  "cost_usd": 10.7216
+}

@@ -1,0 +1,44 @@
+{
+  "game": "cd82",
+  "game_id": "cd82-fb555c5d",
+  "harness": "Codex CLI",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 91,
+  "level_actions": [
+    13,
+    6,
+    24,
+    16,
+    16,
+    16
+  ],
+  "level_baseline_actions": [
+    55,
+    8,
+    41,
+    21,
+    23,
+    23
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 46,
+  "tokens": {
+    "uncached_input": 90964,
+    "cache_read": 1695671,
+    "output": 16064,
+    "all": 1802699
+  },
+  "cost_usd": 0.5576
+}

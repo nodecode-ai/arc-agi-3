@@ -1,0 +1,46 @@
+{
+  "game": "cd82",
+  "game_id": "cd82-fb555c5d",
+  "harness": "Nodecode",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 79,
+  "level_actions": [
+    14,
+    6,
+    16,
+    14,
+    13,
+    16
+  ],
+  "level_baseline_actions": [
+    55,
+    8,
+    41,
+    21,
+    23,
+    23
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 43,
+  "tokens": {
+    "uncached_input": 88,
+    "cache_read": 1794350,
+    "cache_write_5m": 91771,
+    "cache_write_1h": 0,
+    "output": 23793,
+    "all": 1910002
+  },
+  "cost_usd": 1.2939
+}

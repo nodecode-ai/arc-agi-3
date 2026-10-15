@@ -1,0 +1,44 @@
+{
+  "game": "cn04",
+  "game_id": "cn04-2fe56bfb",
+  "harness": "Nodecode",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 215,
+  "level_actions": [
+    16,
+    35,
+    27,
+    33,
+    48,
+    56
+  ],
+  "level_baseline_actions": [
+    29,
+    54,
+    85,
+    300,
+    208,
+    113
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 102,
+  "tokens": {
+    "uncached_input": 193427,
+    "cache_read": 1335160,
+    "output": 39358,
+    "all": 1567945
+  },
+  "cost_usd": 1.0107
+}

@@ -1,0 +1,49 @@
+{
+  "game": "tn36",
+  "game_id": "tn36-ef4dde99",
+  "harness": "Nodecode",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 7,
+  "total_levels": 7,
+  "actions": 152,
+  "level_actions": [
+    10,
+    23,
+    11,
+    15,
+    21,
+    30,
+    42
+  ],
+  "level_baseline_actions": [
+    32,
+    72,
+    26,
+    40,
+    30,
+    55,
+    62
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 56,
+  "tokens": {
+    "uncached_input": 114,
+    "cache_read": 3639279,
+    "cache_write_5m": 197519,
+    "cache_write_1h": 0,
+    "output": 82260,
+    "all": 3919172
+  },
+  "cost_usd": 3.3611
+}

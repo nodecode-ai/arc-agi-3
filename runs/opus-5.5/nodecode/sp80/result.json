@@ -1,0 +1,46 @@
+{
+  "game": "sp80",
+  "game_id": "sp80-589a99af",
+  "harness": "Nodecode",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 150,
+  "level_actions": [
+    5,
+    9,
+    11,
+    25,
+    34,
+    66
+  ],
+  "level_baseline_actions": [
+    39,
+    58,
+    25,
+    148,
+    96,
+    152
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 83,
+  "tokens": {
+    "uncached_input": 168,
+    "cache_read": 5316801,
+    "cache_write_5m": 372596,
+    "cache_write_1h": 0,
+    "output": 193997,
+    "all": 5883562
+  },
+  "cost_usd": 6.807
+}

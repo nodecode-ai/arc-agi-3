@@ -1,0 +1,47 @@
+{
+  "game": "ka59",
+  "game_id": "ka59-38d34dbb",
+  "harness": "Codex CLI",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 7,
+  "total_levels": 7,
+  "actions": 622,
+  "level_actions": [
+    30,
+    55,
+    36,
+    49,
+    25,
+    83,
+    344
+  ],
+  "level_baseline_actions": [
+    28,
+    109,
+    51,
+    51,
+    33,
+    132,
+    326
+  ],
+  "level_scores": [
+    87.1111,
+    115.0,
+    115.0,
+    108.3299,
+    115.0,
+    115.0,
+    89.8087
+  ],
+  "score": 100.0,
+  "model_calls": 110,
+  "tokens": {
+    "uncached_input": 341803,
+    "cache_read": 10145269,
+    "output": 61890,
+    "all": 10548962
+  },
+  "cost_usd": 2.4879
+}

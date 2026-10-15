@@ -1,0 +1,46 @@
+{
+  "game": "cd82",
+  "game_id": "cd82-fb555c5d",
+  "harness": "Claude Code",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 92,
+  "level_actions": [
+    25,
+    6,
+    16,
+    16,
+    13,
+    16
+  ],
+  "level_baseline_actions": [
+    55,
+    8,
+    41,
+    21,
+    23,
+    23
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 35,
+  "tokens": {
+    "uncached_input": 70,
+    "cache_read": 2254243,
+    "cache_write_5m": 0,
+    "cache_write_1h": 111753,
+    "output": 36349,
+    "all": 2402415
+  },
+  "cost_usd": 2.0721
+}

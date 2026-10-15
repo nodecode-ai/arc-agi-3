@@ -1,0 +1,50 @@
+{
+  "game": "ar25",
+  "game_id": "ar25-0c556536",
+  "harness": "Nodecode",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 8,
+  "total_levels": 8,
+  "actions": 301,
+  "level_actions": [
+    19,
+    17,
+    52,
+    22,
+    28,
+    77,
+    39,
+    47
+  ],
+  "level_baseline_actions": [
+    32,
+    50,
+    75,
+    37,
+    89,
+    159,
+    233,
+    73
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 44,
+  "tokens": {
+    "uncached_input": 89921,
+    "cache_read": 416698,
+    "output": 16156,
+    "all": 522775
+  },
+  "cost_usd": 0.428
+}

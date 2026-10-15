@@ -1,0 +1,44 @@
+{
+  "game": "sc25",
+  "game_id": "sc25-635fd71a",
+  "harness": "Nodecode",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 172,
+  "level_actions": [
+    43,
+    5,
+    15,
+    25,
+    47,
+    37
+  ],
+  "level_baseline_actions": [
+    36,
+    6,
+    32,
+    83,
+    143,
+    50
+  ],
+  "level_scores": [
+    70.09194,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 69,
+  "tokens": {
+    "uncached_input": 145304,
+    "cache_read": 1020531,
+    "output": 20234,
+    "all": 1186069
+  },
+  "cost_usd": 0.6677
+}

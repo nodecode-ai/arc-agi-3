@@ -1,0 +1,55 @@
+{
+  "game": "wa30",
+  "game_id": "wa30-ee6fef47",
+  "harness": "Nodecode",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 9,
+  "total_levels": 9,
+  "actions": 811,
+  "level_actions": [
+    34,
+    48,
+    80,
+    95,
+    191,
+    53,
+    54,
+    149,
+    107
+  ],
+  "level_baseline_actions": [
+    71,
+    119,
+    183,
+    98,
+    368,
+    68,
+    79,
+    442,
+    415
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    106.41551,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 176,
+  "tokens": {
+    "uncached_input": 354,
+    "cache_read": 15028853,
+    "cache_write_5m": 385881,
+    "cache_write_1h": 0,
+    "output": 156132,
+    "all": 15571220
+  },
+  "cost_usd": 8.0592
+}

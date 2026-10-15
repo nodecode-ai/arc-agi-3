@@ -1,0 +1,47 @@
+{
+  "game": "vc33",
+  "game_id": "vc33-5430563c",
+  "harness": "Nodecode",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 7,
+  "total_levels": 7,
+  "actions": 188,
+  "level_actions": [
+    7,
+    10,
+    28,
+    24,
+    50,
+    20,
+    49
+  ],
+  "level_baseline_actions": [
+    7,
+    18,
+    44,
+    61,
+    131,
+    34,
+    152
+  ],
+  "level_scores": [
+    100.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 90,
+  "tokens": {
+    "uncached_input": 243810,
+    "cache_read": 1141799,
+    "output": 27972,
+    "all": 1413581
+  },
+  "cost_usd": 1.0034
+}

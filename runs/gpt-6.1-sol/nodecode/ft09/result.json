@@ -1,0 +1,44 @@
+{
+  "game": "ft09",
+  "game_id": "ft09-0d8bbf25",
+  "harness": "Nodecode",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 116,
+  "level_actions": [
+    5,
+    24,
+    24,
+    29,
+    21,
+    13
+  ],
+  "level_baseline_actions": [
+    43,
+    12,
+    23,
+    28,
+    65,
+    37
+  ],
+  "level_scores": [
+    115.0,
+    25.0,
+    91.84027,
+    93.22235,
+    115.0,
+    115.0
+  ],
+  "score": 98.9719,
+  "model_calls": 47,
+  "tokens": {
+    "uncached_input": 69166,
+    "cache_read": 445854,
+    "output": 19584,
+    "all": 534604
+  },
+  "cost_usd": 0.4133
+}

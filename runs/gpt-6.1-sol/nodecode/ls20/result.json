@@ -1,0 +1,47 @@
+{
+  "game": "ls20",
+  "game_id": "ls20-9607627b",
+  "harness": "Nodecode",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 7,
+  "total_levels": 7,
+  "actions": 551,
+  "level_actions": [
+    17,
+    101,
+    92,
+    113,
+    58,
+    87,
+    83
+  ],
+  "level_baseline_actions": [
+    22,
+    123,
+    73,
+    84,
+    96,
+    192,
+    186
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    62.960773,
+    55.258827,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 176,
+  "tokens": {
+    "uncached_input": 368478,
+    "cache_read": 3118022,
+    "output": 66091,
+    "all": 3552591
+  },
+  "cost_usd": 1.8939
+}

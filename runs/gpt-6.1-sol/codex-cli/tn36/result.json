@@ -1,0 +1,47 @@
+{
+  "game": "tn36",
+  "game_id": "tn36-ef4dde99",
+  "harness": "Codex CLI",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 7,
+  "total_levels": 7,
+  "actions": 181,
+  "level_actions": [
+    20,
+    24,
+    10,
+    16,
+    19,
+    34,
+    58
+  ],
+  "level_baseline_actions": [
+    32,
+    72,
+    26,
+    40,
+    30,
+    55,
+    62
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    114.2687
+  ],
+  "score": 100.0,
+  "model_calls": 52,
+  "tokens": {
+    "uncached_input": 107246,
+    "cache_read": 3542067,
+    "output": 26246,
+    "all": 3675559
+  },
+  "cost_usd": 0.8848
+}

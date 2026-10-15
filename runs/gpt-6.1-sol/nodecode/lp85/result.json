@@ -1,0 +1,50 @@
+{
+  "game": "lp85",
+  "game_id": "lp85-305b61c3",
+  "harness": "Nodecode",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 8,
+  "total_levels": 8,
+  "actions": 104,
+  "level_actions": [
+    9,
+    9,
+    16,
+    21,
+    10,
+    20,
+    8,
+    11
+  ],
+  "level_baseline_actions": [
+    17,
+    38,
+    31,
+    16,
+    41,
+    60,
+    26,
+    159
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    58.049885,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 68,
+  "tokens": {
+    "uncached_input": 180102,
+    "cache_read": 796335,
+    "output": 28024,
+    "all": 1004461
+  },
+  "cost_usd": 0.8101
+}

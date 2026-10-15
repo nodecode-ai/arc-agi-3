@@ -1,0 +1,46 @@
+{
+  "game": "m0r0",
+  "game_id": "m0r0-492f87ba",
+  "harness": "Claude Code",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 208,
+  "level_actions": [
+    15,
+    23,
+    59,
+    11,
+    52,
+    48
+  ],
+  "level_baseline_actions": [
+    30,
+    111,
+    203,
+    26,
+    500,
+    237
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 81,
+  "tokens": {
+    "uncached_input": 162,
+    "cache_read": 7338592,
+    "cache_write_5m": 0,
+    "cache_write_1h": 147128,
+    "output": 99793,
+    "all": 7585675
+  },
+  "cost_usd": 4.6413
+}

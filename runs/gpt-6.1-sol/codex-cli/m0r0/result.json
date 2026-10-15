@@ -1,0 +1,44 @@
+{
+  "game": "m0r0",
+  "game_id": "m0r0-492f87ba",
+  "harness": "Codex CLI",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 213,
+  "level_actions": [
+    17,
+    23,
+    71,
+    13,
+    48,
+    41
+  ],
+  "level_baseline_actions": [
+    30,
+    111,
+    203,
+    26,
+    500,
+    237
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 58,
+  "tokens": {
+    "uncached_input": 104653,
+    "cache_read": 3809017,
+    "output": 40936,
+    "all": 3954606
+  },
+  "cost_usd": 1.0519
+}

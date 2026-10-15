@@ -1,0 +1,53 @@
+{
+  "game": "bp35",
+  "game_id": "bp35-0a0ad940",
+  "harness": "Nodecode",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 9,
+  "total_levels": 9,
+  "actions": 739,
+  "level_actions": [
+    17,
+    50,
+    41,
+    23,
+    31,
+    60,
+    80,
+    149,
+    288
+  ],
+  "level_baseline_actions": [
+    21,
+    48,
+    44,
+    38,
+    33,
+    87,
+    86,
+    131,
+    163
+  ],
+  "level_scores": [
+    115.0,
+    92.159996,
+    115.0,
+    115.0,
+    113.319466,
+    115.0,
+    115.0,
+    77.29832,
+    32.032455
+  ],
+  "score": 90.5021,
+  "model_calls": 329,
+  "tokens": {
+    "uncached_input": 901538,
+    "cache_read": 7987433,
+    "output": 122642,
+    "all": 9011613
+  },
+  "cost_usd": 4.279
+}

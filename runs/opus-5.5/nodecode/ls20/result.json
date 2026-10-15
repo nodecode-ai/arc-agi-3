@@ -1,0 +1,49 @@
+{
+  "game": "ls20",
+  "game_id": "ls20-9607627b",
+  "harness": "Nodecode",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 7,
+  "total_levels": 7,
+  "actions": 418,
+  "level_actions": [
+    13,
+    45,
+    75,
+    54,
+    44,
+    88,
+    99
+  ],
+  "level_baseline_actions": [
+    22,
+    123,
+    73,
+    84,
+    96,
+    192,
+    186
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    94.73778,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 165,
+  "tokens": {
+    "uncached_input": 332,
+    "cache_read": 14135078,
+    "cache_write_5m": 286862,
+    "cache_write_1h": 0,
+    "output": 116408,
+    "all": 14538680
+  },
+  "cost_usd": 6.5908
+}

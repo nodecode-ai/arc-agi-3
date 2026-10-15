@@ -1,0 +1,44 @@
+{
+  "game": "sp80",
+  "game_id": "sp80-589a99af",
+  "harness": "Codex CLI",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 151,
+  "level_actions": [
+    6,
+    9,
+    29,
+    34,
+    30,
+    43
+  ],
+  "level_baseline_actions": [
+    39,
+    58,
+    25,
+    148,
+    96,
+    152
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    74.3163,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 55,
+  "tokens": {
+    "uncached_input": 73271,
+    "cache_read": 2632048,
+    "output": 31762,
+    "all": 2737081
+  },
+  "cost_usd": 0.764
+}

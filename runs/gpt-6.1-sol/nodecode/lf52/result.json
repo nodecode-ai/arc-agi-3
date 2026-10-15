@@ -1,0 +1,56 @@
+{
+  "game": "lf52",
+  "game_id": "lf52-271a04aa",
+  "harness": "Nodecode",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 10,
+  "total_levels": 10,
+  "actions": 877,
+  "level_actions": [
+    10,
+    89,
+    46,
+    52,
+    95,
+    121,
+    169,
+    108,
+    134,
+    53
+  ],
+  "level_baseline_actions": [
+    32,
+    81,
+    60,
+    71,
+    205,
+    148,
+    244,
+    109,
+    164,
+    225
+  ],
+  "level_scores": [
+    115.0,
+    82.83045,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    101.86042,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 322,
+  "tokens": {
+    "uncached_input": 942577,
+    "cache_read": 8602421,
+    "output": 127772,
+    "all": 9672770
+  },
+  "cost_usd": 4.4944
+}

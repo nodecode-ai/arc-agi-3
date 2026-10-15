@@ -1,0 +1,46 @@
+{
+  "game": "tr87",
+  "game_id": "tr87-cd924810",
+  "harness": "Nodecode",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 166,
+  "level_actions": [
+    24,
+    32,
+    26,
+    21,
+    31,
+    32
+  ],
+  "level_baseline_actions": [
+    54,
+    58,
+    40,
+    45,
+    71,
+    146
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 96,
+  "tokens": {
+    "uncached_input": 196,
+    "cache_read": 6470780,
+    "cache_write_5m": 244452,
+    "cache_write_1h": 0,
+    "output": 66640,
+    "all": 6782068
+  },
+  "cost_usd": 3.85
+}

@@ -1,0 +1,46 @@
+{
+  "game": "cn04",
+  "game_id": "cn04-2fe56bfb",
+  "harness": "Claude Code",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 192,
+  "level_actions": [
+    16,
+    30,
+    23,
+    32,
+    48,
+    43
+  ],
+  "level_baseline_actions": [
+    29,
+    54,
+    85,
+    300,
+    208,
+    113
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 91,
+  "tokens": {
+    "uncached_input": 182,
+    "cache_read": 11007955,
+    "cache_write_5m": 0,
+    "cache_write_1h": 180344,
+    "output": 114283,
+    "all": 11302764
+  },
+  "cost_usd": 5.9307
+}

@@ -1,0 +1,55 @@
+{
+  "game": "tu93",
+  "game_id": "tu93-0768757b",
+  "harness": "Nodecode",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 9,
+  "total_levels": 9,
+  "actions": 191,
+  "level_actions": [
+    18,
+    15,
+    19,
+    17,
+    30,
+    28,
+    14,
+    21,
+    29
+  ],
+  "level_baseline_actions": [
+    19,
+    16,
+    34,
+    42,
+    123,
+    80,
+    14,
+    23,
+    111
+  ],
+  "level_scores": [
+    111.41975,
+    113.77777,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    100.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 91,
+  "tokens": {
+    "uncached_input": 186,
+    "cache_read": 6841287,
+    "cache_write_5m": 269017,
+    "cache_write_1h": 0,
+    "output": 119553,
+    "all": 7230043
+  },
+  "cost_usd": 5.1051
+}

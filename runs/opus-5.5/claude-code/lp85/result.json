@@ -1,0 +1,52 @@
+{
+  "game": "lp85",
+  "game_id": "lp85-305b61c3",
+  "harness": "Claude Code",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 8,
+  "total_levels": 8,
+  "actions": 98,
+  "level_actions": [
+    7,
+    8,
+    16,
+    17,
+    10,
+    21,
+    7,
+    12
+  ],
+  "level_baseline_actions": [
+    17,
+    38,
+    31,
+    16,
+    41,
+    60,
+    26,
+    159
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    88.58131487889274,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 61,
+  "tokens": {
+    "uncached_input": 122,
+    "cache_read": 4979056,
+    "cache_write_5m": 0,
+    "cache_write_1h": 128399,
+    "output": 84561,
+    "all": 5192138
+  },
+  "cost_usd": 3.7147
+}

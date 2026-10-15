@@ -1,0 +1,46 @@
+{
+  "game": "ft09",
+  "game_id": "ft09-0d8bbf25",
+  "harness": "Claude Code",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 75,
+  "level_actions": [
+    4,
+    7,
+    14,
+    16,
+    21,
+    13
+  ],
+  "level_baseline_actions": [
+    43,
+    12,
+    23,
+    28,
+    65,
+    37
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 25,
+  "tokens": {
+    "uncached_input": 50,
+    "cache_read": 987936,
+    "cache_write_5m": 0,
+    "cache_write_1h": 46159,
+    "output": 24696,
+    "all": 1058841
+  },
+  "cost_usd": 1.061
+}

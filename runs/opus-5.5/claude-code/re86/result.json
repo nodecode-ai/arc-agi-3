@@ -1,0 +1,52 @@
+{
+  "game": "re86",
+  "game_id": "re86-8af5384d",
+  "harness": "Claude Code",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 8,
+  "total_levels": 8,
+  "actions": 546,
+  "level_actions": [
+    20,
+    36,
+    47,
+    44,
+    63,
+    59,
+    110,
+    167
+  ],
+  "level_baseline_actions": [
+    26,
+    42,
+    86,
+    108,
+    189,
+    139,
+    424,
+    241
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 109,
+  "tokens": {
+    "uncached_input": 218,
+    "cache_read": 14312532,
+    "cache_write_5m": 0,
+    "cache_write_1h": 227989,
+    "output": 136028,
+    "all": 14676767
+  },
+  "cost_usd": 7.4078
+}

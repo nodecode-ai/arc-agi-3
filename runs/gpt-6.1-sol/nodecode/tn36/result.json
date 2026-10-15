@@ -1,0 +1,47 @@
+{
+  "game": "tn36",
+  "game_id": "tn36-ef4dde99",
+  "harness": "Nodecode",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 7,
+  "total_levels": 7,
+  "actions": 159,
+  "level_actions": [
+    13,
+    16,
+    9,
+    13,
+    20,
+    43,
+    45
+  ],
+  "level_baseline_actions": [
+    32,
+    72,
+    26,
+    40,
+    30,
+    55,
+    62
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 73,
+  "tokens": {
+    "uncached_input": 162265,
+    "cache_read": 1158516,
+    "output": 27325,
+    "all": 1348106
+  },
+  "cost_usd": 0.7948
+}

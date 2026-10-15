@@ -1,0 +1,50 @@
+{
+  "game": "sk48",
+  "game_id": "sk48-d8078629",
+  "harness": "Codex CLI",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 8,
+  "total_levels": 8,
+  "actions": 269,
+  "level_actions": [
+    15,
+    31,
+    37,
+    36,
+    46,
+    38,
+    35,
+    31
+  ],
+  "level_baseline_actions": [
+    61,
+    177,
+    101,
+    103,
+    230,
+    181,
+    125,
+    92
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 305,
+  "tokens": {
+    "uncached_input": 516063,
+    "cache_read": 25538837,
+    "output": 94209,
+    "all": 26149109
+  },
+  "cost_usd": 4.7861
+}

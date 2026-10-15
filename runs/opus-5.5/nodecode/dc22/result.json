@@ -1,0 +1,46 @@
+{
+  "game": "dc22",
+  "game_id": "dc22-fdcac232",
+  "harness": "Nodecode",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 468,
+  "level_actions": [
+    23,
+    42,
+    47,
+    71,
+    117,
+    168
+  ],
+  "level_baseline_actions": [
+    59,
+    102,
+    67,
+    98,
+    324,
+    578
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 134,
+  "tokens": {
+    "uncached_input": 270,
+    "cache_read": 9630377,
+    "cache_write_5m": 228971,
+    "cache_write_1h": 0,
+    "output": 113930,
+    "all": 9973548
+  },
+  "cost_usd": 5.3506
+}

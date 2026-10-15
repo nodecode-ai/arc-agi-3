@@ -1,0 +1,44 @@
+{
+  "game": "m0r0",
+  "game_id": "m0r0-492f87ba",
+  "harness": "Nodecode",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 215,
+  "level_actions": [
+    19,
+    23,
+    71,
+    16,
+    44,
+    42
+  ],
+  "level_baseline_actions": [
+    30,
+    111,
+    203,
+    26,
+    500,
+    237
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 72,
+  "tokens": {
+    "uncached_input": 169544,
+    "cache_read": 1045526,
+    "output": 24232,
+    "all": 1239302
+  },
+  "cost_usd": 0.7707
+}

@@ -1,0 +1,49 @@
+{
+  "game": "g50t",
+  "game_id": "g50t-5849a774",
+  "harness": "Claude Code",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 7,
+  "total_levels": 7,
+  "actions": 303,
+  "level_actions": [
+    21,
+    31,
+    72,
+    31,
+    50,
+    55,
+    43
+  ],
+  "level_baseline_actions": [
+    78,
+    175,
+    179,
+    230,
+    96,
+    54,
+    67
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    96.39669421487604,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 65,
+  "tokens": {
+    "uncached_input": 130,
+    "cache_read": 5834357,
+    "cache_write_5m": 0,
+    "cache_write_1h": 136717,
+    "output": 77752,
+    "all": 6048956
+  },
+  "cost_usd": 3.8162
+}

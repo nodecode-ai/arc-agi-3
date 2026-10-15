@@ -1,0 +1,53 @@
+{
+  "game": "su15",
+  "game_id": "su15-1944f8ab",
+  "harness": "Codex CLI",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 9,
+  "total_levels": 9,
+  "actions": 166,
+  "level_actions": [
+    8,
+    15,
+    16,
+    16,
+    19,
+    20,
+    6,
+    51,
+    15
+  ],
+  "level_baseline_actions": [
+    22,
+    42,
+    26,
+    115,
+    36,
+    31,
+    8,
+    40,
+    41
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    61.5148,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 122,
+  "tokens": {
+    "uncached_input": 522448,
+    "cache_read": 9345319,
+    "output": 66712,
+    "all": 9934479
+  },
+  "cost_usd": 2.9078
+}

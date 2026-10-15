@@ -1,0 +1,53 @@
+{
+  "game": "wa30",
+  "game_id": "wa30-ee6fef47",
+  "harness": "Nodecode",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 9,
+  "total_levels": 9,
+  "actions": 1053,
+  "level_actions": [
+    38,
+    60,
+    82,
+    51,
+    330,
+    50,
+    43,
+    275,
+    124
+  ],
+  "level_baseline_actions": [
+    71,
+    119,
+    183,
+    98,
+    368,
+    68,
+    79,
+    442,
+    415
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 150,
+  "tokens": {
+    "uncached_input": 236334,
+    "cache_read": 3173294,
+    "output": 60320,
+    "all": 3469948
+  },
+  "cost_usd": 1.5114
+}

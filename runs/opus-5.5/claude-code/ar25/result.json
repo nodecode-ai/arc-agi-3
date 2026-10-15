@@ -1,0 +1,52 @@
+{
+  "game": "ar25",
+  "game_id": "ar25-0c556536",
+  "harness": "Claude Code",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 8,
+  "total_levels": 8,
+  "actions": 253,
+  "level_actions": [
+    15,
+    11,
+    40,
+    22,
+    28,
+    53,
+    37,
+    47
+  ],
+  "level_baseline_actions": [
+    32,
+    50,
+    75,
+    37,
+    89,
+    159,
+    233,
+    73
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 59,
+  "tokens": {
+    "uncached_input": 118,
+    "cache_read": 4992139,
+    "cache_write_5m": 0,
+    "cache_write_1h": 128118,
+    "output": 68652,
+    "all": 5189027
+  },
+  "cost_usd": 3.3969
+}

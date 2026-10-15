@@ -1,0 +1,55 @@
+{
+  "game": "bp35",
+  "game_id": "bp35-0a0ad940",
+  "harness": "Nodecode",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 9,
+  "total_levels": 9,
+  "actions": 586,
+  "level_actions": [
+    16,
+    49,
+    34,
+    23,
+    32,
+    67,
+    62,
+    159,
+    144
+  ],
+  "level_baseline_actions": [
+    21,
+    48,
+    44,
+    38,
+    33,
+    87,
+    86,
+    131,
+    163
+  ],
+  "level_scores": [
+    115.0,
+    95.960014,
+    115.0,
+    115.0,
+    106.34766,
+    115.0,
+    115.0,
+    67.88102,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 233,
+  "tokens": {
+    "uncached_input": 468,
+    "cache_read": 21149936,
+    "cache_write_5m": 874743,
+    "cache_write_1h": 0,
+    "output": 360394,
+    "all": 22385541
+  },
+  "cost_usd": 15.8135
+}

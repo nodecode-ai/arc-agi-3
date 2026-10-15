@@ -1,0 +1,50 @@
+{
+  "game": "re86",
+  "game_id": "re86-8af5384d",
+  "harness": "Nodecode",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 8,
+  "total_levels": 8,
+  "actions": 784,
+  "level_actions": [
+    21,
+    36,
+    47,
+    60,
+    71,
+    69,
+    185,
+    295
+  ],
+  "level_baseline_actions": [
+    26,
+    42,
+    86,
+    108,
+    189,
+    139,
+    424,
+    241
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    66.74059
+  ],
+  "score": 100.0,
+  "model_calls": 131,
+  "tokens": {
+    "uncached_input": 206997,
+    "cache_read": 2057622,
+    "output": 49319,
+    "all": 2313938
+  },
+  "cost_usd": 1.2164
+}

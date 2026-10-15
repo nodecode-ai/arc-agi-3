@@ -1,0 +1,44 @@
+{
+  "game": "r11l",
+  "game_id": "r11l-495a7899",
+  "harness": "Codex CLI",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 97,
+  "level_actions": [
+    6,
+    17,
+    14,
+    13,
+    27,
+    20
+  ],
+  "level_baseline_actions": [
+    22,
+    33,
+    51,
+    26,
+    52,
+    49
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 77,
+  "tokens": {
+    "uncached_input": 390756,
+    "cache_read": 6617360,
+    "output": 26904,
+    "all": 7035020
+  },
+  "cost_usd": 1.9077
+}

@@ -1,0 +1,46 @@
+{
+  "game": "r11l",
+  "game_id": "r11l-495a7899",
+  "harness": "Nodecode",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 79,
+  "level_actions": [
+    6,
+    10,
+    11,
+    13,
+    18,
+    21
+  ],
+  "level_baseline_actions": [
+    22,
+    33,
+    51,
+    26,
+    52,
+    49
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 63,
+  "tokens": {
+    "uncached_input": 128,
+    "cache_read": 3289508,
+    "cache_write_5m": 102917,
+    "cache_write_1h": 0,
+    "output": 47060,
+    "all": 3439613
+  },
+  "cost_usd": 2.1142
+}

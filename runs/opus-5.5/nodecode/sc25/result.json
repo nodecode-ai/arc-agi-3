@@ -1,0 +1,46 @@
+{
+  "game": "sc25",
+  "game_id": "sc25-635fd71a",
+  "harness": "Nodecode",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 6,
+  "total_levels": 6,
+  "actions": 158,
+  "level_actions": [
+    19,
+    5,
+    25,
+    32,
+    39,
+    38
+  ],
+  "level_baseline_actions": [
+    36,
+    6,
+    32,
+    83,
+    143,
+    50
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 59,
+  "tokens": {
+    "uncached_input": 120,
+    "cache_read": 3473057,
+    "cache_write_5m": 123501,
+    "cache_write_1h": 0,
+    "output": 55880,
+    "all": 3652558
+  },
+  "cost_usd": 2.4302
+}

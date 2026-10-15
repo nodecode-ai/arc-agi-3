@@ -1,0 +1,52 @@
+{
+  "game": "ar25",
+  "game_id": "ar25-0c556536",
+  "harness": "Nodecode",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 8,
+  "total_levels": 8,
+  "actions": 253,
+  "level_actions": [
+    15,
+    11,
+    40,
+    22,
+    28,
+    53,
+    37,
+    47
+  ],
+  "level_baseline_actions": [
+    32,
+    50,
+    75,
+    37,
+    89,
+    159,
+    233,
+    73
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 49,
+  "tokens": {
+    "uncached_input": 100,
+    "cache_read": 2321826,
+    "cache_write_5m": 91557,
+    "cache_write_1h": 0,
+    "output": 35620,
+    "all": 2449103
+  },
+  "cost_usd": 1.6349
+}

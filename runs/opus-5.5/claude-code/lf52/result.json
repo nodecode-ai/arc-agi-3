@@ -1,0 +1,58 @@
+{
+  "game": "lf52",
+  "game_id": "lf52-271a04aa",
+  "harness": "Claude Code",
+  "model": "claude-opus-5-5",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 10,
+  "total_levels": 10,
+  "actions": 713,
+  "level_actions": [
+    8,
+    34,
+    47,
+    50,
+    93,
+    106,
+    146,
+    74,
+    110,
+    45
+  ],
+  "level_baseline_actions": [
+    32,
+    81,
+    60,
+    71,
+    205,
+    148,
+    244,
+    109,
+    164,
+    225
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 178,
+  "tokens": {
+    "uncached_input": 356,
+    "cache_read": 58239162,
+    "cache_write_5m": 0,
+    "cache_write_1h": 636400,
+    "output": 300091,
+    "all": 59176009
+  },
+  "cost_usd": 22.7423
+}

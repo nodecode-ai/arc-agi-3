@@ -1,0 +1,53 @@
+{
+  "game": "tu93",
+  "game_id": "tu93-0768757b",
+  "harness": "Codex CLI",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 9,
+  "total_levels": 9,
+  "actions": 199,
+  "level_actions": [
+    18,
+    10,
+    24,
+    22,
+    29,
+    28,
+    16,
+    23,
+    29
+  ],
+  "level_baseline_actions": [
+    19,
+    16,
+    34,
+    42,
+    123,
+    80,
+    14,
+    23,
+    111
+  ],
+  "level_scores": [
+    111.4198,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    76.5625,
+    100.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 82,
+  "tokens": {
+    "uncached_input": 115388,
+    "cache_read": 6063295,
+    "output": 41287,
+    "all": 6219970
+  },
+  "cost_usd": 1.3077
+}

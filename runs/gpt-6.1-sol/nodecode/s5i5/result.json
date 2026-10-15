@@ -1,0 +1,50 @@
+{
+  "game": "s5i5",
+  "game_id": "s5i5-18d95033",
+  "harness": "Nodecode",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 8,
+  "total_levels": 8,
+  "actions": 294,
+  "level_actions": [
+    16,
+    40,
+    42,
+    31,
+    32,
+    29,
+    62,
+    42
+  ],
+  "level_baseline_actions": [
+    20,
+    89,
+    106,
+    54,
+    162,
+    38,
+    86,
+    83
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 96,
+  "tokens": {
+    "uncached_input": 239938,
+    "cache_read": 1181003,
+    "output": 42503,
+    "all": 1463444
+  },
+  "cost_usd": 1.143
+}

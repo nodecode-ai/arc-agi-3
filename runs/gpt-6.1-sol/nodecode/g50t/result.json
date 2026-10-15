@@ -1,0 +1,47 @@
+{
+  "game": "g50t",
+  "game_id": "g50t-5849a774",
+  "harness": "Nodecode",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "xhigh",
+  "state": "WIN",
+  "levels_completed": 7,
+  "total_levels": 7,
+  "actions": 294,
+  "level_actions": [
+    26,
+    31,
+    64,
+    31,
+    50,
+    49,
+    43
+  ],
+  "level_baseline_actions": [
+    78,
+    175,
+    179,
+    230,
+    96,
+    54,
+    67
+  ],
+  "level_scores": [
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0,
+    115.0
+  ],
+  "score": 100.0,
+  "model_calls": 90,
+  "tokens": {
+    "uncached_input": 153874,
+    "cache_read": 943911,
+    "output": 21336,
+    "all": 1119121
+  },
+  "cost_usd": 0.6924
+}
